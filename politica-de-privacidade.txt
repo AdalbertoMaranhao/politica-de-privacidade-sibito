@@ -1,30 +1,30 @@
-Política de privacidade — Sibito
+Política de privacidade — SIBITO
 
-Última atualização: 19 de outubro de 2026
+Última atualização: 22 de outubro de 2026
 
-Responsável pelo Sibito: Adalberto Maranhão
+Responsável pelo SIBITO: Adalberto Maranhão
 Contato de suporte e privacidade: franciscoadalbertodelimafilho@gmail.com
 
 Dados usados no aparelho
-O Sibito funciona offline, sem conta de usuário. Fichas, exercícios, séries, cargas, repetições, datas, duração das sessões, anotações e medidas corporais são armazenados no banco de dados local. Nome, foco de treino, altura, peso, percentual de gordura, foto escolhida e preferências são opcionais e usados no próprio aparelho para personalizar o app e apresentar seus registros.
+O SIBITO funciona offline, sem conta de usuário. Fichas, exercícios, séries, cargas, repetições, datas, duração das sessões, anotações e medidas corporais são armazenados no banco de dados local. Nome, foco de treino, altura, peso, percentual de gordura, foto escolhida e preferências são opcionais e usados no próprio aparelho para personalizar o app e apresentar seus registros.
 
 Transmissão e compartilhamento
-O app não possui servidor próprio, anúncios, rastreamento publicitário ou ferramentas de análise que enviem seus registros ao desenvolvedor. Não vendemos seus dados. Ao exportar um backup, você escolhe o aplicativo ou destino que receberá a cópia do banco de dados. Esse arquivo pode conter dados de treino e medidas corporais; guarde-o com cuidado. Serviços escolhidos por você e recursos de backup ou transferência do Android seguem suas próprias configurações e políticas. As preferências e a foto do perfil não fazem parte do backup manual do banco.
+O app não possui servidor próprio, anúncios, rastreamento publicitário ou ferramentas de análise que enviem seus registros ao desenvolvedor. Não vendemos seus dados. O backup automático na nuvem e a transferência automática entre aparelhos do Android estão desativados para o SIBITO. Os backups são manuais e dependem de uma ação sua. O backup completo (.sibito) inclui treinos, medidas corporais, perfil, preferências e fotos do perfil, inclusive a imagem original usada para nova edição. Guarde-o com cuidado. O backup legado (.db) contém somente o banco de dados. Você escolhe o aplicativo ou destino que receberá a cópia; os serviços escolhidos seguem suas próprias configurações e políticas.
 
 Arquivos e foto do perfil
-A importação abre somente o arquivo que você escolhe no seletor do Android e substitui o banco local após validação. A foto escolhida é copiada para o armazenamento interno do app para uso no perfil. Não pedimos acesso irrestrito à sua galeria, localização, contatos, microfone ou câmera.
+A importação abre somente o arquivo escolhido no seletor do Android, mostra uma prévia e pede confirmação. Um backup completo substitui banco, preferências contempladas e fotos; se não houver foto no backup, a foto local é removida do perfil. Um arquivo .db substitui apenas o banco e preserva o perfil, as preferências e as fotos locais. A foto escolhida é copiada para o armazenamento interno do app. Não pedimos acesso irrestrito à galeria, localização, contatos, microfone ou câmera.
 
 Notificações e descanso
 Se você ativar som e vibração, o Android poderá pedir permissão para notificações e alarmes precisos. Esses recursos servem para avisar o fim do descanso entre séries, inclusive em segundo plano. Você pode desativá-los em Ajustes ou nas configurações do Android. A tela de treino pode manter a tela ligada conforme sua preferência.
 
 Retenção e exclusão
-Os registros permanecem no aparelho enquanto os dados do app forem mantidos. Você pode editar ou remover registros pelos recursos disponíveis. Para apagar todos os dados locais, use Configurações do Android > Apps > Sibito > Armazenamento > Limpar dados. Exclua separadamente os backups que exportou e gerencie cópias do sistema ou de serviços externos nas configurações correspondentes. Não há conta nem banco remoto do Sibito para excluir ou recuperar. O banco local e o backup manual não possuem criptografia própria; a proteção do aparelho também depende do Android, do bloqueio de tela e das configurações do usuário.
+Os registros permanecem no aparelho enquanto os dados do app forem mantidos. Você pode editar ou remover registros pelos recursos disponíveis. Para apagar todos os dados locais, use Configurações do Android > Apps > SIBITO > Armazenamento > Limpar dados. Exclua separadamente os backups que exportou e gerencie cópias de serviços externos nas configurações correspondentes. Não há conta nem banco remoto do SIBITO para excluir ou recuperar. O banco local e os arquivos de backup .db e .sibito não possuem criptografia própria; a proteção depende também do aparelho e das configurações do usuário.
 
 Contato
 Para dúvidas sobre privacidade ou suporte, escreva para franciscoadalbertodelimafilho@gmail.com. Se você nos enviar um e-mail, receberemos os dados que decidir incluir e os usaremos para responder à sua solicitação. Não envie senhas ou arquivos sensíveis sem necessidade. Mensagens de suporte são mantidas pelo tempo necessário ao atendimento e ao cumprimento de obrigações aplicáveis; você pode solicitar sua exclusão pelo mesmo contato.
 
 Uso responsável
-O Sibito registra atividades físicas e não é um dispositivo médico. Não realiza diagnóstico ou tratamento e não substitui orientação de profissionais de saúde ou de educação física. Sugestões de progressão dependem dos registros informados. Não direcionamos o app a crianças nem coletamos intencionalmente informações delas em nossos canais de suporte.
+O SIBITO registra atividades físicas e não é um dispositivo médico. Não realiza diagnóstico ou tratamento e não substitui orientação de profissionais de saúde ou de educação física. Sugestões de progressão dependem dos registros informados. Não direcionamos o app a crianças nem coletamos intencionalmente informações delas em nossos canais de suporte.
 
 Alterações
 Esta política poderá ser atualizada quando as práticas do app mudarem. A data no início identifica a versão do texto.
